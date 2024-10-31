@@ -262,7 +262,7 @@
                 <div class="col-lg-6 col-md-6 col-12">
                     <div class="card">
                         <div class="card-header">
-                            <h4>Referral URL</h4>
+                            <h4>Referral URL tes</h4>
                         </div>
                         <div class="card-body">
                             <div class="mb-4">
